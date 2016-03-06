@@ -1,5 +1,5 @@
 # mizrach
-App that shows direction to Jerusalem
+App that shows direction to Jerusalem, based on current location (gps) and current direction
 
 phonegap / cordova
 
