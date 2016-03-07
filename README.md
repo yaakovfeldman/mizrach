@@ -3,4 +3,4 @@ App that shows direction to Jerusalem, based on current location (gps) and curre
 
 phonegap / cordova
 
-to install on android, download apk. It's self signed and not in marketplace. You must allow installation of non market place apps (google it).
+To install on android, download apk. It's self signed and not in marketplace. You must allow installation of non market place apps (google it).
